@@ -1,0 +1,9 @@
+Satellite precipitation data in NetCDF format downloaded from UCI CHRS's DataPortal(chrsdata.eng.uci.edu).
+Data domain:
+ncols     11
+nrows    11
+xllcorner 105.320
+yllcorner 20.480
+cellsize 0.04
+NODATA_value -99
+Unit mm
